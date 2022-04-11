@@ -134,4 +134,11 @@ view: fact_sales {
     type: count
     drill_fields: []
   }
+
+  measure: total_sales {
+    type:  number
+    label: "Total sales amount in USD"
+    sql: SUM(${sales_amt});;
+    value_format_name: usd
+  }
 }
