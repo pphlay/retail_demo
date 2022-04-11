@@ -1,5 +1,5 @@
 view: dim_product_type {
-  sql_table_name: `hnm.dim_product_type`
+  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_product_type`
     ;;
 
   dimension: product_group_name {

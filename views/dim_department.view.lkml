@@ -1,5 +1,5 @@
-view: dim_dept {
-  sql_table_name: `hnm.dim_dept`
+view: dim_department {
+  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_department`
     ;;
 
   dimension: department_name {

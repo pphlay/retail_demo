@@ -1,5 +1,5 @@
 view: dim_graphical_appearance {
-  sql_table_name: `hnm.dim_graphical_appearance`
+  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_graphical_appearance`
     ;;
 
   dimension: graphical_appearance_name {

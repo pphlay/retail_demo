@@ -1,5 +1,5 @@
 view: dim_index {
-  sql_table_name: `hnm.dim_index`
+  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_index`
     ;;
 
   dimension: index_code {

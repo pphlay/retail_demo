@@ -1,5 +1,5 @@
 view: dim_colour_group {
-  sql_table_name: `hnm.dim_colour_group`
+  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_colour_group`
     ;;
 
   dimension: colour_group_code {

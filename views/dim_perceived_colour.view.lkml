@@ -1,5 +1,5 @@
 view: dim_perceived_colour {
-  sql_table_name: `hnm.dim_perceived_colour`
+  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_perceived_colour`
     ;;
 
   dimension: perceived_colour_value_id {

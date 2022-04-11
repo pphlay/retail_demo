@@ -1,5 +1,5 @@
 view: dim_garment_group {
-  sql_table_name: `hnm.dim_garment_group`
+  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_garment_group`
     ;;
 
   dimension: garment_group_name {
