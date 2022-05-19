@@ -2,6 +2,12 @@ view: dim_section {
   sql_table_name: `dcsea-ac-hpegoog.hnm.dim_section`
     ;;
 
+
+  dimension: section_name_desc {
+    type: string
+    sql: ${TABLE}.section_name_desc ;;
+  }
+
   dimension: section_name {
     type: string
     sql: ${TABLE}.section_name ;;
