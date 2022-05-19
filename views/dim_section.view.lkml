@@ -1,5 +1,5 @@
 view: dim_section {
-  sql_table_name: `dcsea-ac-hpegoog.hnm.dim_section`
+  sql_table_name: .dim_section
     ;;
 
 
