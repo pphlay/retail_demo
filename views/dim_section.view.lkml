@@ -1,5 +1,5 @@
 view: dim_section {
-  sql_table_name: dbt_schema.dim_section
+  sql_table_name: {{ _user_attributes['dbt_schema'] }}.dim_section
     ;;
 
 
